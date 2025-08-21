@@ -40,4 +40,4 @@
     - Parquinho (46,34% vs 53,66%) e Bebidas (46,18% vs 53,82%) também abaixo do esperado
 
 ## Print do Dashboard
-![Exemplo]([https://github.com/brunomatsuda/desafio-coco-bambu/blob/main/imagens/print.png])
+![Exemplo](https://github.com/brunomatsuda/desafio-coco-bambu/blob/main/imagens/print.png?raw=true)
