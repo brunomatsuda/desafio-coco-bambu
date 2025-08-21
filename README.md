@@ -22,16 +22,16 @@
 - Padronização de colunas (separação de id e item na tabela [campos]), para facilitar a visualização dos dados
 
   ## 📈 Análise dos Resultados
-1. No geral o ano de 2025 foi melhor em relação ao de 2024 se analisarmos como um todo, porém o crescimento fatorial anual ficou abaixo do esperado (em relaçaão aos meses de maio e junho)
+**1.** No geral o ano de 2025 foi melhor em relação ao de 2024 se analisarmos como um todo, porém o crescimento fatorial anual ficou abaixo do esperado (em relaçaão aos meses de maio e junho)
   - 2024: Faturamento acumulado de R$ 13,207 Bi, abaixo da meta de R$ 13,580 Bi (-2,75%).
   - 2025: Faturamento acumulado de R$ 13,190 Bi, superando a meta de R$ 12,915 Bi (+2,12%).
   - Crescimento fatorial anual: praticamente estável, com -0,13%.
 
-2. O bom desempenho em maio foi anulado por uma queda expressiva em junho
+**2.** O bom desempenho em maio foi anulado por uma queda expressiva em junho
   - Maio 2025 vs Maio 2024: crescimento robusto de 5,36%, com faturamento superior a R$ 6,7 Bi (acima do orçamento em 6,79%).
   - Junho 2025 vs Junho 2024: queda de -5,28%, faturamento de R$ 6,45 Bi (abaixo do orçamento em 2,33%).
 
-3. Faturamento x Orçamento por Item
+**3.** Faturamento x Orçamento por Item
   - **Forte Desempenho:**
     - Outras Receitas (54,82%) e Frete (51,65%) têm maior peso no faturamento que no orçamento
     - Restaurante (50,45%) manteve-se alinhado à meta (49,55%), mostrando consistência
