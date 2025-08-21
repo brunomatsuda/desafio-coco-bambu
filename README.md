@@ -1,3 +1,3 @@
 # Desafio Coco-Bambu
 
-## 🛢 Modelagem e Visuais
+## 🖧 Modelagem e Visuais
