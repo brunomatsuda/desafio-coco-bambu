@@ -16,7 +16,13 @@
 - Há uma diferença entre a quantidade de registro entre os anos de 2024 e 2025, uma diferença de 110 linhas para ser mais exato
 
 ## 🧹 Tratamento
-- Valores negativos foram transformados em positivo, por achar que foi um erro de preenchimento, visto que a coluna [valor] com valor negativo era próxima do [valor_orcado] e vice versa
+- Valores negativos foram transformados em positivo, por achar que foi um erro de preenchimento, visto que a coluna [valor] com valores negativos era próxima do [valor_orcado] e vice versa
 - Remoçaõ de valores vazios nas colunas [valor, valor_orcado], por não achar fazer sentido, tendo em vista que a principal métrica é a comparação fianceira
 - Padronização de dados (Data, moeda, inteiro...), para clara compreensão dos dados
 - Padronização de colunas (separação de id e item na tabela [campos]), para facilitar a visualização dos dados
+
+  ## 📈 Análise dos Resultados
+- No geral o ano de 2025 foi melhor em relação ao de 2024 se analisarmos como um todo, porém o crescimento fatorial anual ficou abaixo do esperado (em relaçaão aos meses de maio e junho)
+  - 2024: Faturamento acumulado de R$ 13,207 Bi, abaixo da meta de R$ 13,580 Bi (-2,75%).
+  - 2025: Faturamento acumulado de R$ 13,190 Bi, superando a meta de R$ 12,915 Bi (+2,12%).
+  - Crescimento fatorial anual: praticamente estável, com -0,13%.
