@@ -12,4 +12,11 @@
 
 ## 🕵 Suposiçôes
 - As colunas [valor, valor_orcado] possuem valores negativos, mas acredito que tenha sido um erro na hora de subir para planilha
-- 
+- As colunas [valor, valor_orcado] com valores _null_ foram removidas, presumo que o restaurante em si estava fechado em tal mês
+- Há uma diferença entre a quantidade de registro entre os anos de 2024 e 2025, uma diferença de 110 linhas para ser mais exato
+
+## 🧹 Tratamento
+- Valores negativos foram transformados em positivo, por achar que foi um erro de preenchimento, visto que a coluna [valor] com valor negativo era próxima do [valor_orcado] e vice versa
+- Remoçaõ de valores vazios nas colunas [valor, valor_orcado], por não achar fazer sentido, tendo em vista que a principal métrica é a comparação fianceira
+- Padronização de dados (Data, moeda, inteiro...), para clara compreensão dos dados
+- Padronização de colunas (separação de id e item na tabela [campos]), para facilitar a visualização dos dados
