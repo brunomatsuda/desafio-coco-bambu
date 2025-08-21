@@ -1,4 +1,4 @@
-# Desafio Coco-Bambu
+# Desafio Coco-Bambu 🌴
 
 ## 🛢 Modelagem e Visuais
 - Como solicitado no desafio foi criada uma tabela [calendario]
@@ -9,3 +9,7 @@
 ## ∑ Medidas DAX
 - Para evitar repetição irei colocar apenas uma fórmula, mas para cada fórmula foi criada variações tanto para 2024(maio e junho) quanto para 2025(maio e junho)
 - [% de Crescimento fatorial], [faturamento total], [Orçamento total], [total_mês], [Variação %], [Variação % mês], table[calendario], [Datas]
+
+## 🕵 Suposiçôes
+- As colunas [valor, valor_orcado] possuem valores negativos, mas acredito que tenha sido um erro na hora de subir para planilha
+- 
